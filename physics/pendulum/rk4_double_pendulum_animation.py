@@ -4,7 +4,7 @@ from matplotlib import animation
 
 m1, m2 = 1.0, 1.0
 l1, l2 = 1.0, 1.0
-g = 9.81
+g = 9.79
 
 state0 = np.array([np.pi/2, np.pi/2, 0.0, 0.0])
 
