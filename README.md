@@ -2,9 +2,9 @@
 
 * Astronomy
 
-  ** exoplanet light curve
+  1. exoplanet light curve
 
-  ** exoplanet atmospheric escape
+  2. exoplanet atmospheric escape
 
 * Physics
 
