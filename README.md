@@ -1,3 +1,2 @@
 # Study 
-
-module = numpy,matplotlib
+-module 
