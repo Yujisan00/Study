@@ -1,11 +1,13 @@
 # Study 
 
-* Astronomy
+### * Astronomy
 
-  1. exoplanet light curve
+  ### 1. ### exoplanet light curve
 
-  2. exoplanet atmospheric escape
+  ### 2. ### exoplanet atmospheric escape
+ 
+  ### 3. ### spot crossing events
 
-* Physics
+### * Physics
 
 
